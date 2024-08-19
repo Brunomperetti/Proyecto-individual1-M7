@@ -28,19 +28,19 @@ Para poner en marcha este proyecto, se debe instalar los siguientes componentes:
 Pasos de Instalación
 1.	Clona el repositorio desde GitHub:
 bash
-Copiar código: git clone 
+Copiar código: ```git clone```
 
 2.	Crea un entorno virtual en tu sistema:
 bash
-Copiar código: python -m venv venv
+Copiar código: ```python -m venv venv```
 
 3.	Activa el entorno virtual para trabajar dentro de él:
-o	Windows: venv\Scripts\activate
-o	macOS/Linux: source venv/bin/activate
+o	Windows: ```venv\Scripts\activate```
+o	macOS/Linux: ```source venv/bin/activate```
 
 4.	Instala todas las dependencias necesarias para ejecutar el proyecto:
 bash
-Copiar código: pip install -r requirements.txt
+Copiar código: ```pip install -r requirements.txt```
 
 ## Enfoque Metodológico
 
