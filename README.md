@@ -1,6 +1,7 @@
 Proyecto Henry MLOps: Sistema de Recomendación de Películas
 
 Visión General
+
 El objetivo principal de este proyecto es desarrollar un sistema completo que permita gestionar y analizar datos de películas mediante un proceso ETL (Extracción, Transformación y Carga). Además, se implementa una API para acceder a la información procesada y un modelo de Machine Learning (ML) que sugiere películas basadas en las preferencias del usuario.
 Contenidos
 
@@ -13,6 +14,7 @@ Contenidos
 7.	Autores
    
 Descripción del Proyecto
+
 Este proyecto se centra en la creación de una solución integral para el análisis de datos de películas. A través de un proceso ETL, se preparan los datos para su posterior uso en una API. Adicionalmente, se ha desarrollado un modelo de ML que realiza recomendaciones de películas según las preferencias individuales de los usuarios, mejorando la experiencia personalizada.
 
 Configuración e Instalación
@@ -39,9 +41,11 @@ o	macOS/Linux: source venv/bin/activate
 bash
 
 Copiar código
+
 pip install -r requirements.txt
 
 Enfoque Metodológico
+
 El proyecto utiliza técnicas avanzadas de ingeniería de datos para asegurar que los datos sean limpios, precisos y listos para ser analizados. El proceso ETL es fundamental para transformar los datos originales en información estructurada y de alta calidad, lista para su uso en modelos de ML y en la API. 
 Análisis Exploratorio de Datos (EDA)
 
@@ -69,5 +73,6 @@ Organización del Proyecto
 
 Autor
 El proyecto ha sido desarrollado por:
+
 •	Bruno Peretti
 
