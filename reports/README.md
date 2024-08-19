@@ -37,4 +37,51 @@ Correlación positiva moderada (0.68), indicando que películas con mayor presup
 Correlación moderada (0.45), sugiriendo que películas con mayor presupuesto tienden a ser más populares, aunque la relación no es tan fuerte.
 
 ### Relación Débil del Retorno con Otras Variables:
-La columna de retorno muestra correlaciones ba
+La columna de retorno muestra correlaciones bajas con otras variables, indicando que el retorno no está fuertemente relacionado con presupuesto, popularidad, número de votos o ingresos.
+
+### Correlaciones Bajas o Negativas:
+Variables como ID y año de lanzamiento no tienen correlaciones fuertes con otras métricas, como es de esperar.
+
+## 4. Análisis de Relaciones entre Variables
+
+### Relación entre Presupuesto e Ingresos:
+Tendencia positiva en el scatter plot, sugiriendo que películas con presupuestos más altos tienden a generar mayores ingresos. La mayoría de los datos se concentran en la parte inferior izquierda, indicando presupuestos e ingresos bajos.
+
+### Relación entre Popularidad y Votación Promedio:
+No hay una correlación clara entre popularidad y votación promedio. Las películas populares pueden tener una amplia gama de votaciones.
+
+## 5. Nube de Palabras
+
+### Temáticas Comunes:
+Palabras grandes como "Love", "Man", "Girl", "Story", y "Night" indican temáticas recurrentes en los títulos de las películas. Las palabras representan temas comunes, como historias de amor o personajes masculinos.
+
+### Valor para el Análisis:
+Esta visualización ayuda a identificar las temáticas predominantes en el dataset, lo cual es útil para sistemas de recomendación y análisis de tendencias.
+
+## 6. Análisis de Datos de Reparto y Equipo Técnico
+
+### Actores Más Frecuentes:
+Actores como Samuel L. Jackson y Steve Buscemi aparecen repetidamente, mostrando una diversidad de talentos en el reparto.
+
+### Directores Más Frecuentes:
+Alfred Hitchcock lidera la lista de directores con una frecuencia notablemente mayor que otros.
+
+## 7. Detección de Anomalías
+
+### Presupuestos Altos:
+Hay una gran variabilidad en el éxito financiero de las películas con presupuestos altos, con algunos fracasos y otros éxitos.
+
+### Ingresos Bajos Relativos al Presupuesto:
+Películas con ingresos bajos en comparación con su presupuesto pueden haber enfrentado problemas en el mercado o en promoción.
+
+## 8. Exploración de Patrones en el Tiempo
+
+### Popularidad:
+Ha aumentado significativamente desde el año 2000, con picos en lanzamientos de películas muy populares.
+
+### Número de Votos:
+También ha aumentado, especialmente después del año 2000, sugiriendo un mayor compromiso de la audiencia con las películas.
+
+## Conclusión:
+Las visualizaciones y análisis muestran que tanto la popularidad como el número de votos han crecido con el tiempo. Este crecimiento está relacionado con el acceso a internet y plataformas de streaming, y es esencial para comprender las tendencias en el mercado cinematográfico.
+
