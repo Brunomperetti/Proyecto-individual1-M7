@@ -51,6 +51,8 @@ Una vez que los datos fueron limpiados, se llevó a cabo un análisis explorator
 
 •	**Nubes de Palabras**: Se generaron nubes de palabras para analizar las palabras más frecuentes en los títulos de las películas. Esta información es crucial para mejorar las recomendaciones, ya que permite identificar tendencias y temas recurrentes en las películas.
 
+![Nube de Palabras](imagenes/Nube%20de%20Palabras.JPG)
+
 •	**Gráficas de Distribución y Correlación**: Se crearon gráficos para visualizar la distribución de las variables clave y su correlación, lo cual ayuda a entender mejor los datos y guiar el desarrollo del modelo de ML.
 
 Este EDA permitió obtener una comprensión de los datos y fundamentar la creación del sistema de recomendación de películas, que se basa en la similitud entre películas. El modelo entrenado devuelve una lista de las 5 películas más similares a la consultada, y esta funcionalidad ha sido integrada como una extensión de la API.
