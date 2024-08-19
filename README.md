@@ -51,7 +51,7 @@ Una vez que los datos fueron limpiados, se llevó a cabo un análisis explorator
 
 •	**Nubes de Palabras**: Se generaron nubes de palabras para analizar las palabras más frecuentes en los títulos de las películas. Esta información es crucial para mejorar las recomendaciones, ya que permite identificar tendencias y temas recurrentes en las películas.
 
-![Nube de Palabras](imagenes/Nube%20de%20Palabras.JPG)
+![Nube de Palabras](imagenes/nube%20de%20palabras.JPG)
 
 •	**Gráficas de Distribución y Correlación**: Se crearon gráficos para visualizar la distribución de las variables clave y su correlación, lo cual ayuda a entender mejor los datos y guiar el desarrollo del modelo de ML.
 
