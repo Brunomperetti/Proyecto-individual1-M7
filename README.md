@@ -27,7 +27,7 @@ Pasos de Instalación
 1.	Clona el repositorio desde GitHub:
 bash
 Copiar código
-git clone https://github.com/Nico22724/Proyecto_Henry_MLOps.git
+git clone 
 2.	Crea un entorno virtual en tu sistema:
 bash
 Copiar código
