@@ -64,6 +64,8 @@ Los datos utilizados en este proyecto provienen de un conjunto de datos seleccio
 
 •	**dataset/**: Carpeta que contiene los dataset utilizados en el proyecto
 
+•	**imagenes/**: Gráfica Nube de Palabras 
+
 •	**notebooks/**: Incluye el proceso ETL,  el EDA y el modelo Machine learning
 
 •	**reports/**:reporte escrito del análisis EDA
@@ -71,6 +73,7 @@ Los datos utilizados en este proyecto provienen de un conjunto de datos seleccio
 •	**src/**: Directorio con el código de la API 
 
 •	**README.md**: Documento de referencia para la documentación del proyecto.
+
 
 ## Autor
 El proyecto ha sido desarrollado por:
